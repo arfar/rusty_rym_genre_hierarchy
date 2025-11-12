@@ -33,6 +33,7 @@ TODO
 
 ## TODO
 
+- Change the data structure to be more usable
 - Add a way to search
 - Add a way to search effectively (the only way I can think of right now is to iterate through everything.
   will probably require a change in data structure)
